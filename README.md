@@ -35,4 +35,4 @@ Systems downloads site. Licence serials are supplied with purchase.
 
 - Support & issues: <https://github.com/cloudcastsystemsau/pathfinder-deck/issues>
 
-© Cloudcast Systems. Module v0.5.0.
+© Cloudcast Systems. Module v0.5.1.
